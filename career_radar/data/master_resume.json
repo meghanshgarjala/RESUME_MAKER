@@ -1,0 +1,38 @@
+{
+  "name": "Alex Johnson",
+  "headline": "Senior Software Engineer | Backend & Applied AI",
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Django",
+    "SQL",
+    "SQLite",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Machine Learning",
+    "scikit-learn",
+    "NLP",
+    "APScheduler",
+    "Jinja2",
+    "REST APIs"
+  ],
+  "projects": [
+    {
+      "name": "Intelligent Resume Matcher",
+      "description": "Built an NLP service using TF-IDF and cosine ranking to map resumes to role descriptions.",
+      "skill_tags": ["python", "nlp", "scikit-learn", "fastapi", "sqlite"]
+    },
+    {
+      "name": "Job Feed Aggregator",
+      "description": "Implemented RSS ingestion pipelines with scheduled scoring and alerting.",
+      "skill_tags": ["python", "rss", "apscheduler", "smtp", "docker"]
+    },
+    {
+      "name": "Cloud API Platform",
+      "description": "Developed containerized backend services with CI/CD and observability.",
+      "skill_tags": ["fastapi", "docker", "aws", "sql", "rest"]
+    }
+  ]
+}
